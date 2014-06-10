@@ -4,7 +4,6 @@
  *  Information:
  *  			Change the Bouncing Ball from an applet to an application which can be run standalone
  */
-import java.awt.*;
 import javax.swing.*;
 
 public class BounceBallApplication extends JFrame {
