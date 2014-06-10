@@ -1,3 +1,9 @@
+/** Name: Yen-Yi Wu
+ *  ID: U10216020
+ *  Ex.: Convert the program in 18.8 to an application
+ *  Information:
+ *  			Change the Bouncing Ball from an applet to an application which can be run standalone
+ */
 import java.awt.*;
 import javax.swing.*;
 
